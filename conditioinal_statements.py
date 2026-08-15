@@ -1,7 +1,7 @@
 marks=int(input("enter marks"))
 
 if marks>=80:
-    print('A')
+    print('A') #indentation followed
 elif marks<80 and marks>=60:
     print('B')
 elif marks<60 and marks>=40:
